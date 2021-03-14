@@ -1,3 +1,5 @@
+# This project is a replication from John Sundell with some my customization in addition.
+
 <p align="center">
     <img src="Logo.png" width="278" max-width="90%" alt=“Markdown” />
 </p>
@@ -101,7 +103,7 @@ Markdown is distributed using the [Swift Package Manager](https://swift.org/pack
 let package = Package(
     ...
     dependencies: [
-        .package(url: "https://github.com/johnsundell/ink.git", from: "0.1.0")
+        .package(url: "https://github.com/vudat81299/markdown.git", from: "0.1.0") // or 0.5.0
     ],
     ...
 )
