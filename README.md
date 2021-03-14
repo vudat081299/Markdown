@@ -1,4 +1,4 @@
-# This project is a replication from John Sundell with some my customization in addition.
+# This project is a replication from John Sundell with some my customization in addition
 
 <p align="center">
     <img src="Logo.png" width="278" max-width="90%" alt=“Markdown” />
