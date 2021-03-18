@@ -8,7 +8,7 @@
 > + any project work with [Swift Package Manager](https://swift.org/package-manager/).
 > ### [How use?](#installation)
 
-# Details
+# More Details Below
 <p align="center">
     <img src="Logo.png" width="278" max-width="90%" alt=“Markdown” />
 </p>
