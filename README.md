@@ -1,5 +1,14 @@
 # This project is a replication from John Sundell with some my customization in addition
 
+> ## FAQ
+> ### What is this thing?
+> + is a parser, converter from Markdown to html.
+> + pure swift.
+> ### Where can use?
+> + any project work with [Swift Package Manager](https://swift.org/package-manager/).
+> ### [How use?](#installation)
+
+# Details
 <p align="center">
     <img src="Logo.png" width="278" max-width="90%" alt=“Markdown” />
 </p>
